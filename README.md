@@ -5,7 +5,7 @@ This application is purely for learning purposes. Do not use it for wrong purpos
 ## Getting started
 ### Installing Python3
 You need to have Python 3 installed on your PC. If you don't, all you need to do is go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download the latest version of Python 
-OR You could go to [https://anaconda.org/](https://anaconda.org/) and download Anaconda.
+OR You could go to [ and download Anaconda.
 ### Installing Selenium
 #### Pip install:
 ```shell
@@ -17,6 +17,13 @@ conda create --name newenv
 conda activate newenv
 conda install selenium
 ```
+
+### Tutorial
+
+run Built.bat
+run Run.py
+
+
 ### Downloading Chrome webdriver
 You need to download Chrome webdriver, corresponding to your version of Google Chrome. Go to [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads) and download the suitable version.
 ## Running the application
@@ -28,6 +35,7 @@ cd WhatsApp Spammer
 ```
 Now type:
 ```shell
+
 python Run.py
 ```
 to launch the application. 
